@@ -1,7 +1,8 @@
 {
   "revealOptions": {
     "transition": "slide",
-    "center": true
+    "center": true,
+    "theme": "dracula"
   },
   "highlightTheme": "monokai",
   "katex": true
