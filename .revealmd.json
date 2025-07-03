@@ -1,0 +1,8 @@
+{
+  "revealOptions": {
+    "transition": "slide",
+    "center": true
+  },
+  "highlightTheme": "monokai",
+  "katex": true
+}
